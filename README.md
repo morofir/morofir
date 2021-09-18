@@ -2,7 +2,9 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Mor Ofir! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about creating applications:computer: and tools to help people, and **learning new techniques**. 
+I'm Mor Ofir! 
+<br>
+I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about creating applications:computer: and tools to help people, and **learning new techniques**. 
 Hit :star2: to my repository if you find a project interesting.
 <br>
 (BSC in computer science)
