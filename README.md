@@ -22,7 +22,7 @@ Hit :star2: to my repository if you find a project interesting.
 
 
 ### 💼  Things that I'm currently working on: 
-* Learning Flutter:computer: Development
+* Learning Flutter, Javascript:computer: Development
 * Increasing my knowledge in Android and Java development
 * 🔜
 
