@@ -25,10 +25,12 @@ Hit :star2: to my repository if you find a project interesting.
 * 🔜
 
 ### :floppy_disk: Developed large scale projects:
-* Social media network
+* Social media network (Crypto Club), currently in [Google Play Store](https://play.google.com/store/apps/details?id=com.moridan.cryptoclub1)
+* Media Player application
 * Store management software
-* android 2D mobile game
-(see in my repositories)
+* Android 2D mobile game
+<br>
+(all in my repositories)
 
 
 
