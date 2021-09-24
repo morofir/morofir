@@ -7,8 +7,6 @@ I'm Mor Ofir!
 I'm a **Android/Java Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about creating applications:computer: and tools to help people, and **learn new techniques**. 
 Hit :star2: to my repository if you find a project interesting.
 <br>
-(BSC in computer science)
-
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Contact me!</b></em>
 
