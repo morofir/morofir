@@ -1,77 +1,123 @@
-<!-- Greeting -->
-# Hey there! :wave::smiley:
+<div align="center">
 
-<!--Introduction -->
-I'm Mor Ofir! 
-<br>
-I'm a **Mobile Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about creating applications:computer: and tools to help people, **learn new techniques**. 
-Hit :star2: to my repository if you find a project interesting.
-<br>
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Contact me!</b></em>
+  # Mor Ofir
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-MorOfir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MorOfir)
-[![Gmail](https://img.shields.io/badge/-MorOfir-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:MorOfir92@gmail.com)
+  **Mobile & Frontend Developer · AI Enthusiast · Indie Hacker**
 
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=MorOfir&style=flat)
-[![Github](https://img.shields.io/badge/-MorOfir-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/MorOfir)
+  *Building products that solve real problems — from FDA-reviewed medical apps to AI-powered SaaS tools*
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MorOfir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MorOfir)
+  [![Gmail](https://img.shields.io/badge/Gmail-morofir92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MorOfir92@gmail.com)
+  [![FixGDPR](https://img.shields.io/badge/🚀_Live_Product-fixgdpr.xyz-10b981?style=for-the-badge)](https://fixgdpr.xyz)
+  ![Profile Views](https://komarev.com/ghpvc/?username=MorOfir&style=for-the-badge&color=blueviolet)
 
-### 💼  Things that I'm currently working on: 
-* Learning Kotlin, Flutter, Javascript Development :computer:
-* Increasing my knowledge in Android and Java development
-* 🔜
+  </div>
 
-### :floppy_disk: Developed large scale projects:
-* Social media network (Crypto Club), currently in [Google Play Store](https://play.google.com/store/apps/details?id=com.moridan.cryptoclub1)
-* Media Player application
-* Store management software
-* Android 2D mobile game
-<br>
-(all in my repositories)
+  ---
 
+  ## 👨‍💻 About Me
 
+  Experienced **Mobile & Frontend Developer** with 4+ years specializing in **Flutter** and **React/React Native**. I architect scalable solutions, ship production-grade apps, and build SaaS products from zero to launch.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/morofir">
-    <img width="500" height="auto" align="right" alt="morofir's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=morofir&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="morofir's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=morofir&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
+  Deep AI enthusiast — I actively work with **Claude, GPT-4, Gemini, Cursor, GitHub Copilot, Midjourney, and more** to accelerate development, ship faster, and build smarter products.
 
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
+  > Currently building **[FixGDPR](https://fixgdpr.xyz)** — an AI-assisted GDPR compliance checker that scans any website and delivers platform-specific copy-paste fixes in 60 seconds.
 
-</p>
-<br>
-<br>
+  ---
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+  ## 🤖 AI Tools I Work With Daily
 
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+  <div align="center">
+
+  | Category | Tools |
+  |---|---|
+  | **Code & Dev** | Claude Code · GitHub Copilot · Cursor · ChatGPT |
+  | **Image & Design** | Midjourney · DALL·E · Gemini · Stable Diffusion |
+  | **Productivity** | Notion AI · Perplexity · ElevenLabs |
+  | **APIs & Infra** | Anthropic API · OpenAI API · Replicate |
+
+  </div>
+
+  I use AI not just as a tool but as a **development philosophy** — architecting apps where AI handles the repetitive and humans handle the creative.
+
+  ---
+
+  ## 💼 Experience
+
+  **Mobile & Frontend Developer** @ [Neurolief](https://neurolief.com) · *2022–Present*
+  - 🏥 Architected **FDA-reviewed Flutter apps** for Class III medical device ecosystems
+  - ⚡ Built React + NestJS admin systems with real-time patient monitoring via Firebase
+  - 🚀 Reduced deployment time **20%** via Azure DevOps CI/CD pipelines
+  - 🔬 Implemented BLE synchronization protocols improving device connectivity by 35%
+
+  **Mobile Developer** @ Moveo Software · *2021–2022*
+  - 📱 Shipped cross-platform apps with Flutter and React Native (iOS + Android)
+  - 🏗️  Built scalable products using Agile and modern architectural patterns
+
+  **Programming Tutor** @ LeadersApp · *2019–2020*
+  - 👨‍🏫 Taught Python, C++, Java across multiple grade levels
+
+  ---
+
+  ## 🚀 Projects
+
+  <div align="center">
+
+  | Project | Description | Stack | Status |
+  |---|---|---|---|
+  | [**FixGDPR**](https://fixgdpr.xyz) | GDPR compliance checker — scan any site, get copy-paste fixes | Next.js · TypeScript · PostgreSQL · AI | 🟢 Live |
+  | [**Crypto Club**](https://play.google.com/store/apps/details?id=com.moridan.cryptoclub1) | Social media network for crypto enthusiasts | Android · Java · Firebase | 🟢 Live |
+  | **Medical Device Platform** | FDA-reviewed BLE-connected mobile health app | Flutter · NestJS · Azure | 🔒 Private |
+
+  </div>
+
+  ---
+
+  ## 🛠️  Tech Stack
+
+  <div align="center">
+
+  **Mobile**
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+  **Frontend & Backend**
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+  **Cloud & DevOps**
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+  **AI & APIs**
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+  </div>
+
+  ---
+
+  <div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=morofir&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=morofir&theme=tokyonight&hide_border=true" />
+
+  </div>
+
+  ---
+
+  <div align="center">
+
+  🎓 **B.Sc. Computer Science** · Holon Institute of Technology · GPA 87
+
+  *If you find a project interesting, hit ⭐ — it means a lot!*
+
+  </div>
