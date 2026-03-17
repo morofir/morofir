@@ -30,8 +30,7 @@
   **Mobile & Frontend Developer** @ [Neurolief](https://neurolief.com) · *2022–Present*
   - 🏥 Architected **FDA-reviewed Flutter apps** for Class III medical device ecosystems
   - ⚡ Built React + NestJS admin systems with real-time patient monitoring via Firebase
-  - 🚀 Reduced deployment time **20%** via Azure DevOps CI/CD pipelines
-  - 🔬 Implemented BLE synchronization protocols improving device connectivity by 35%
+  - 🔬 Implemented BLE synchronization protocols
 
   **Mobile Developer** @ Moveo Software · *2021–2022*
   - 📱 Shipped cross-platform apps with Flutter and React Native (iOS + Android)
