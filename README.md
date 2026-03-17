@@ -25,23 +25,6 @@
 
   ---
 
-  ## 🤖 AI Tools I Work With Daily
-
-  <div align="center">
-
-  | Category | Tools |
-  |---|---|
-  | **Code & Dev** | Claude Code · GitHub Copilot · Cursor · ChatGPT |
-  | **Image & Design** | Midjourney · DALL·E · Gemini · Stable Diffusion |
-  | **Productivity** | Notion AI · Perplexity · ElevenLabs |
-  | **APIs & Infra** | Anthropic API · OpenAI API · Replicate |
-
-  </div>
-
-  I use AI not just as a tool but as a **development philosophy** — architecting apps where AI handles the repetitive and humans handle the creative.
-
-  ---
-
   ## 💼 Experience
 
   **Mobile & Frontend Developer** @ [Neurolief](https://neurolief.com) · *2022–Present*
